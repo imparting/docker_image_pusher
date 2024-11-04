@@ -15,3 +15,5 @@ php:8.3-cli
 php:7.4-cli
 golang:latest
 golang:1.23
+wechaty/wechaty:latest
+wechaty/wechaty:1.20
