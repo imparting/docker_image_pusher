@@ -3,6 +3,7 @@ nginx:1.27
 node:latest
 node:22.11
 node:20.18
+node:16.13.2-bullseye
 mysql:latest
 mysql:9.1
 mysql:8.0
