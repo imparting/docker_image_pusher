@@ -18,3 +18,4 @@ golang:1.23
 wechaty/wechaty:latest
 wechaty/wechaty:1.20
 phpwechaty/php-wechaty:v1
+
