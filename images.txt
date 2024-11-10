@@ -1,3 +1,4 @@
+alpine:latest
 nginx:latest
 nginx:1.27
 node:latest
