@@ -6,6 +6,9 @@ node:latest
 node:22.11
 node:20.18
 node:18.20.4-bookworm
+mariadb:latest
+mariadb:11.5
+mariadb:10.6
 mysql:latest
 mysql:9.1
 mysql:8.0
