@@ -1,5 +1,7 @@
 alpine:latest
 loads/alpine:3.8
+redis:7.4.1
+redis:7.4.1-alpine
 nginx:latest
 nginx:1.27
 node:latest
